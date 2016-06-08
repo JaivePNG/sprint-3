@@ -1,4 +1,4 @@
-What is the Purpose of Black Bar Rising?
+What is the Purpose of Black Bear Rising?
 
 The purpose of the website, which you can find here, squadpng.github.io, is to raise awarness of the plight of Black Bears and their cousins in the bear family.
 
