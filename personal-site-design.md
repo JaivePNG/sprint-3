@@ -1,7 +1,7 @@
 I have done two github sites - these are:
 ---------------------------------------------------------------
-a) Steeple Chasing Colums and Grids : jaivepng.github.io
-b) Black Bear Rising: squadpng.github.io
+1) Steeple Chasing Colums and Grids : jaivepng.github.io
+2) Black Bear Rising: squadpng.github.io
 ---------------------------------------------------------------
 
 What is the Purpose of Steeple Chasing Colums and Grids?
